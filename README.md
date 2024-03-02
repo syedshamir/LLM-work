@@ -37,7 +37,7 @@ To use the Blog Generator, simply input the relevant details and let Llama 2 wor
 Feel free to reach out for any questions or feedback. Happy blogging!
 
 
-** STEPS TO RUN THE PROJECT **  
+**STEPS TO RUN THE PROJECT**  
 
 Create a conda environment: conda create -p venv python==3.9 --y
 
