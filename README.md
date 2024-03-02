@@ -4,7 +4,7 @@
 Welcome to our Blog Generator, a powerful tool built on the advanced Llama 2 model. This innovative system allows users to effortlessly generate blog content by providing three key inputs: the blog topic, the intended audience, and the desired word limit. The system is designed to cater to a diverse range of audiences, including Researchers, Data Scientists, Data Engineers, AI Engineers, DevOps Engineers, Graduate Students, Primary School Students, and Common People.
 
 
-How it Works
+**How it Works**
 Input Parameters: Users provide the blog topic, specify the target audience from the available options, and set the desired word limit.
 Llama 2 Model: The core of our system is the Llama 2 model, a state-of-the-art language model trained to understand and generate human-like text. It leverages a vast dataset to ensure high-quality and contextually relevant content generation.
 Targeted Audiences
